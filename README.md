@@ -24,7 +24,7 @@ It is made available here as a research note for review, feedback, and discussio
 
 The current PDF draft is available here:
 
-[[Download the working draft](TargetLabelsAreNotPortfolioReturns.pdf)](https://github.com/rsucupira/Target_Labels/blob/main/TargetLabelsAreNotPortfolioReturns.pdf)
+[Download the working draft](https://github.com/rsucupira/Target_Labels/blob/main/TargetLabelsAreNotPortfolioReturns.pdf)
 
 ---
 
